@@ -4,7 +4,7 @@
 <!-- [![License: GPL v3]() -->
 
 # Base64-Encoder
-![](blob:https://imgur.com/102b0330-9b61-40fe-8225-5e0d2531c69a)
+![](https://i.imgur.com/UyFRnYa.png)
 
 ## Description
 This application is a simple base64 encoder that can encode plain text into URL-friendly format base64 strings.
